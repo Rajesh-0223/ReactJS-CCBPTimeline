@@ -1,0 +1,23 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  text-align: center;
+  color: #1e293b;
+  font-size: 20px;
+}
+.ccbp-heading {
+  font-size: 26px;
+  color: #2b237c;
+}
+.chrono-container {
+  height: 75vh;
+  width: 50vw;
+}
